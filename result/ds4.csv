@@ -1,0 +1,10 @@
+	F1_score	AUC_score	Mean	SD	95% HPD
+Nearest Neighbors     	5.5	7.0	7.0	3.5	7.0
+Linear SVM            	5.5	2.0	3.0	3.5	3.0
+RBF SVM               	5.5	5.5	4.0	7.0	4.0
+Decision Tree         	5.5	9.0	9.0	1.0	9.0
+Random Forest         	5.5	8.0	8.0	2.0	8.0
+AdaBoost              	5.5	4.0	6.0	5.0	6.0
+Naive Bayes           	5.5	5.5	5.0	6.0	5.0
+Linear Discriminant   	5.5	2.0	1.5	9.0	2.0
+Quadratic Discriminant	1.0	2.0	1.5	8.0	1.0
