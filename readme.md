@@ -6,7 +6,7 @@ This repository contains Python code for my undergraduate thesis
 _Bayesian Models of the Area Under Roc Curve_. It contains two directories:
 
 * `py2`: Contains python2 scripts for Bayesian Analysis
-* `ipynb`: Contains IPython notebooks with diagrams for experiment results.
+* `ipynb`: Contains IPython notebooks with data and diagrams for experiment results.
 
 ## Introduction
 
@@ -38,6 +38,7 @@ The dependencies include:
 * Matplotlib
 * Seaborn
 
-## Model
+## Model & Experiments
 
-See model.pdf if you are interested in the model.
+Please refer to model.pdf if you are interested in the model.
+The experiments results can be found in IPython notebooks.
